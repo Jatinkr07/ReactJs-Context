@@ -38,7 +38,6 @@ const userData = {
   name: "Jack Doe",
   age: 28,
   email: "john.doe@example.com",
-  phno: 7894561230,
 };
 
 function App() {

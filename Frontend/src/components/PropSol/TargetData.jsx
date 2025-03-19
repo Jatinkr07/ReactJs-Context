@@ -10,7 +10,7 @@ function TragetData() {
       <p>Age: {user.age}</p>
       <p>Email: {user.email}</p>
 
-      <p>Phno: {user.phno}</p>
+      {/* <p>Phno: {user.phno}</p> */}
     </div>
   );
 }
